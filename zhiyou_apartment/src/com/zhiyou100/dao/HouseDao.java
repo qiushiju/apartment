@@ -15,4 +15,6 @@ public interface HouseDao {
 
 	void edit(House house);
 
+	void test20200228();
+
 }
