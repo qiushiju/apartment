@@ -14,7 +14,8 @@ public interface HouseDao {
 	House findHouseById(int hid);
 
 	void edit(House house);
-
-	void test20200228();
+	
+	void test20200228up();
+        void test20200228down();
 
 }
